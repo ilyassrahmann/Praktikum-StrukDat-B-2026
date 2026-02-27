@@ -1,8 +1,3 @@
-#3. Buat file main.py sebagai program utama yang mengimport kedua module di atas.
-#4. Gunakan library tabulate (pip install tabulate) untuk menampilkan tabel kurs.
-#5. User memilih dari/ke mata uang apa dan memasukkan jumlah.
-#6. Buat virtual environment khusus proyek ini dan simpan requirements.txt.
-#7. pilihan daro kurs apa ke kurs apa
 from kurs import kurs
 from konverter import idr_to_currency, currency_to_idr
 from tabulate import tabulate
