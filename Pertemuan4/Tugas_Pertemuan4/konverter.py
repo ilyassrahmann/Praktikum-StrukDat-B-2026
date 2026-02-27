@@ -1,4 +1,3 @@
-#Buat file konverter.py berisi fungsi konversi (IDR ke mata uang lain dan sebaliknya).
 from kurs import kurs
 
 def idr_to_currency(jumlah_idr, currency):
